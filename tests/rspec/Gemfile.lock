@@ -52,7 +52,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     faraday_middleware (0.12.2)
       faraday (>= 0.7.4, < 1.0)
-    ffi (1.9.18)
+    ffi (1.14.2)
     headless (2.3.1)
     i18n (0.9.1)
       concurrent-ruby (~> 1.0)
